@@ -406,9 +406,11 @@ Pour donner un ordre d'idée, voici ce que pratiquent déjà deux concurrents :
 - Vendre les outils techniques aux sociétés de bourse.
 - Étudier une petite part d'actions de la BRVM pour l'épargne longue, en respectant la réglementation des changes.
 - Ouvrir une filiale en Côte d'Ivoire, avec un prestataire de paiement agréé et une société de gestion partenaire (voir partie 19).
+- Poser à la BEAC et à la COSUMAF les questions sur l'accès aux Bourses étrangères, et tester l'offre destinée à la diaspora (voir partie 20).
 
 ### Phase 4 : l'institution financière (années 7 à 20)
 
+- Lancer un pilote fermé de poche internationale (ETF européens puis mondiaux) avec une banque partenaire et un intermédiaire agréé COSUMAF (voir partie 20).
 - Lever les fonds pour une microfinance de 2e catégorie.
 - Préparer à très long terme la transformation en banque.
 
@@ -458,6 +460,9 @@ Le succès ne se mesure pas seulement au chiffre d'affaires. Il se mesure aussi 
 | Côte d'Ivoire : confiance | Le public associe tontine en ligne et arnaque, la police déconseille ces tontines | Promesse de sécurité d'abord, fonds chez un établissement agréé, dialogue avec la PLCC |
 | Côte d'Ivoire : concurrence | TONT'IN, Tontineo, Peya Pay ou Djamo occupent déjà le terrain | Se distinguer par la caisse placée dans un fonds agréé, pas par la simple gestion de tontine |
 | Côte d'Ivoire : structure | Pas de label startup sans capital majoritairement ivoirien | Décider tôt avec un avocat, chercher un ou plusieurs associés ivoiriens |
+| Bourses étrangères : change | La BEAC refuse le regroupement des placements, ou durcit les sorties de devises | Passer par une banque, demander un avis écrit avant tout lancement, commencer par la piste diaspora |
+| Bourses étrangères : frais | Les frais mangent le gain des petits montants | Achats groupés et espacés, ETF à faibles frais, montant minimum par placement |
+| Bourses étrangères : marché | Une forte baisse des actions abîme la confiance dans toute l'app | Poche limitée, réservée à l'épargne longue, explications claires sur le risque avant chaque souscription |
 
 ---
 
@@ -486,6 +491,12 @@ Le succès ne se mesure pas seulement au chiffre d'affaires. Il se mesure aussi 
 13. Quel rendement net offrent aujourd'hui les fonds monétaires agréés en Côte d'Ivoire ?
 14. Combien les membres de tontines ivoiriens sont-ils prêts à payer, et quelle part de leur caisse accepteraient-ils de placer ?
 15. Quelle structure de capital donner à la filiale ivoirienne pour obtenir le label startup ?
+16. Le seuil BEAC de 20 millions FCFA par an s'applique-t-il par membre ou à l'ensemble de la plateforme ?
+17. Proposer des ETF cotés à Paris à des résidents CEMAC demande-t-il un visa ou une autorisation de la COSUMAF ?
+18. Quelle banque camerounaise accepterait de porter les virements et les déclarations pour une poche internationale ?
+19. Combien coûte réellement un virement d'une banque camerounaise vers un courtier européen ? Non trouvé à ce jour.
+20. Comment le Cameroun impose-t-il les plus-values sur titres étrangers ?
+21. La diaspora est-elle prête à cotiser ou à investir dans la caisse d'une tontine familiale via l'app ?
 
 ---
 
@@ -683,6 +694,148 @@ Les chiffres publics ne disent pas tout. Avant d'investir dans la filiale ivoiri
 
 ---
 
+## 20. Étude : donner accès aux Bourses européennes et américaines
+
+Cette partie répond à une question précise : est-ce qu'on peut, et est-ce qu'on doit, permettre à nos membres d'investir en actions et en ETF cotés en Europe ou aux États-Unis ? Les chiffres viennent de sources publiques consultées fin novembre 2026. Quand on n'a pas trouvé une information, on le dit clairement, et les estimations qui sont les nôtres sont signalées comme telles.
+
+### 20.1 Ce qu'il faut retenir
+
+- **La technique est prête.** Des courtiers américains et européens louent leur infrastructure par API. Une fintech peut proposer des fractions d'actions dès 1 dollar ou 1 euro sans devenir courtier elle-même.
+- **La loi CEMAC ne l'interdit pas, mais elle impose la banque.** Les placements à l'étranger sont libres en principe. Ils doivent cependant passer par un établissement de crédit, être déclarés 30 jours avant, et être autorisés au-delà de 20 millions FCFA par an. Le mobile money ne peut pas servir à les financer.
+- **Le modèle direct coûte très cher au petit épargnant.** Chez le seul concurrent camerounais identifié, un aller-retour coûte environ 13 % du montant investi.
+- **Même les gros acteurs reculent.** Chipper Cash, une des fintechs africaines les plus connues, ferme son produit d'actions aux nouveaux achats en 2026.
+- **Seul, ce service ne fait pas vivre l'entreprise.** Notre estimation donne une vingtaine de millions FCFA de revenus par an à horizon cinq ans. C'est un service de fidélisation, pas un moteur de chiffre d'affaires.
+
+Notre conclusion : c'est une bonne option pour plus tard, sous forme de **poche de diversification à long terme**, proposée avec une banque partenaire. Ce n'est pas un produit de lancement.
+
+### 20.2 Pourquoi la demande existe
+
+**L'offre locale est minuscule.** La BVMAC ne compte que 6 sociétés cotées, pour une capitalisation de 477,7 milliards FCFA fin 2025. La part réellement disponible à l'échange n'est que de 69,6 milliards FCFA. Sur toute l'année 2025, il ne s'est échangé que 740 millions FCFA d'actions, en 594 transactions. Pour comparer, la BRVM, à Abidjan, termine l'année avec 13 330 milliards FCFA de capitalisation, soit près de 28 fois plus. Un épargnant camerounais qui veut diversifier en actions n'a presque rien à acheter chez lui.
+
+**Le public est déjà sur le téléphone.** Le Cameroun comptait 30,9 millions de comptes mobile money fin 2024, contre 24,86 millions un an plus tôt. En 2023, 47 % des comptes camerounais avaient servi au moins une fois dans le mois. Attention, ce sont des comptes et pas des personnes : beaucoup de gens en ont plusieurs.
+
+**Mais peu de gens investissent déjà.** La BVMAC comptait environ 8 500 comptes titres fin 2023, et vise 100 000 d'ici fin 2026. Le réflexe boursier reste à créer, même sur le marché local.
+
+**L'envie de « placer ailleurs » se voit dans la crypto, mais sans chiffre fiable.** Le Cameroun était classé 119e dans l'indice d'adoption de Chainalysis en 2024 et n'apparaît pas dans le top 20 de 2025. Aucune source sérieuse ne donne le nombre de Camerounais qui détiennent des cryptos. On ne s'en servira donc pas comme argument.
+
+**Amarah donne un premier signal.** Ce concurrent camerounais, pas encore lancé, annonce un peu plus de 120 inscrits sur sa liste d'attente dans un article de mai 2026, et plus de 170 sur son site aujourd'hui. C'est peu, et ça montre qu'une demande « grand public » pour Wall Street reste à prouver.
+
+### 20.3 La concurrence et les modèles qui existent
+
+| Acteur | Pays | Ce qu'il propose | Ce qu'il faut en retenir |
+|---|---|---|---|
+| **Amarah** | Cameroun | Actions et ETF américains dès 5 000 FCFA, payés par MTN MoMo ou Orange Money, via un courtier américain membre de la FINRA | Pas encore lancé. Frais : 3,5 % au dépôt, 2 % de change à l'aller, 2 % par ordre, 2 % de change au retour, 2,5 % au retrait. Lui-même prévient que les règles de change CEMAC peuvent mettre fin au service |
+| **Chipper Cash** | Ouganda, Nigeria | Fractions d'actions américaines dès 1 dollar, via DriveWealth, avec 10 dollars de frais d'accès et 1 dollar par mois | Le produit ferme aux nouveaux achats. Les clients sont invités à vendre avant la dernière semaine de décembre, et l'entreprise passe à des contrats dérivés sur les cours. Même avec des millions d'utilisateurs, le modèle « fraction d'action » n'a pas tenu |
+| **Bamboo** | Nigeria | Actions américaines et nigérianes, commission de 1,5 % par ordre, minimum 1 dollar | Plus de 500 000 inscrits, dont environ 100 000 investisseurs actifs en avril 2024. Enregistré comme sous-courtier numérique auprès du régulateur nigérian |
+| **Chaka** | Nigeria | Actions locales et étrangères, 1 % par ordre, minimum 2 dollars | Une des premières licences de sous-courtier numérique. Rachetée par Risevest en septembre 2023 |
+| **Risevest** | Nigeria | Portefeuilles gérés en dollars (actions, immobilier coté, obligations) | Plus de 600 000 utilisateurs annoncés. Le régulateur nigérian l'avait signalé comme non enregistré début 2025. Une source de 2026 indique qu'il opère désormais sous licence, ce qu'il faudrait vérifier |
+
+**Ce qu'on en tire.** Sur ce marché, la différence ne se fait pas sur la technique, que tout le monde loue au même fournisseur. Elle se fait sur trois points : les frais, la conformité avec le régulateur, et la confiance. C'est justement là que notre projet de tontine veut être fort.
+
+### 20.4 Les partenaires techniques possibles
+
+| Partenaire | Ce qu'il offre | Points d'attention |
+|---|---|---|
+| **Alpaca** | API de courtage, fractions dès 1 dollar, 1 euro ou 1 livre. Actions allemandes (Xetra) en euros déjà ouvertes, Euronext Paris annoncé « dans les prochains mois ». Filiale européenne agréée en Espagne depuis le rachat de WealthKernel en avril 2026 | Déjà partenaire de Thndr en Égypte. Il faudra vérifier qu'il accepte des clients résidents au Cameroun pour ce montage précis |
+| **DriveWealth** | Fractions d'actions et ETF américains, plus de 9 600 titres. Partenaire historique de Chipper Cash et de Chaka | Ne publie pas ses prix. Pour un partenaire hors des États-Unis, il refait lui-même la vérification d'identité des clients |
+| **Interactive Brokers** | Programme de « courtier introducteur » avec plateforme en marque blanche, accès à plus de 175 marchés dont Euronext. Accepte les clients de tous les pays sauf ceux sous sanction ou à haut risque | Le plus large et le seul à publier ses tarifs. Mais il s'adresse d'abord à des courtiers déjà agréés : il nous faudrait un partenaire agréé COSUMAF ou une banque |
+
+### 20.5 Ce que dit la loi
+
+**Au Cameroun, la porte est ouverte mais elle passe par la banque.**
+- Le règlement CEMAC de 2018 sur les changes pose le principe : les investissements de portefeuille avec l'étranger sont libres. Mais ce sont les établissements de crédit qui exécutent ces opérations pour leurs clients.
+- L'instruction BEAC n° 003/GR/2020 fixe le seuil à **20 millions FCFA par personne et par an**. En dessous, il suffit de déclarer l'opération à la BEAC et au ministère des Finances 30 jours avant. Au-dessus, il faut une autorisation, que la BEAC doit donner en 60 jours ouvrés, faute de quoi elle est réputée accordée.
+- Le texte ne dit pas si ce seuil s'apprécie par membre ou pour l'ensemble d'une plateforme qui regroupe beaucoup de petits épargnants. **Non trouvé.** C'est la première question à poser à la BEAC.
+- Le mobile money est très encadré hors de la zone. Les paiements à distance hors CEMAC sont limités à 1 million FCFA par mois et par personne, et ils visent des dépenses courantes, pas des placements. Les établissements de paiement ne peuvent pas non plus faire de la collecte d'épargne.
+
+**Côté COSUMAF, le statut d'une app comme la nôtre n'est pas tranché.**
+- Le règlement général de 2023 reconnaît plusieurs métiers : société de bourse, société de gestion, conseiller en investissements financiers, démarchage, prestataire sur actifs numériques. Le capital minimum d'un intermédiaire de marché est de 300 millions FCFA.
+- Un émetteur étranger doit obtenir un visa pour faire appel public à l'épargne en CEMAC, et les fonds étrangers aussi. On n'a **pas trouvé** de texte qui dise si le simple fait de proposer des actions déjà cotées à Paris ou New York entre dans cette règle.
+- Il n'existe pas encore de bac à sable réglementaire. La COSUMAF prévoit des échanges avec les fintechs en 2026, et la BEAC prépare un nouveau règlement sur les services de paiement qui en prévoirait un. Son adoption n'est pas confirmée.
+
+**En Côte d'Ivoire, c'est presque fermé.** Le règlement UEMOA de 2024 soumet tout investissement d'un résident hors de la zone à l'autorisation du ministre des Finances, avec au moins 75 % financés par un emprunt à l'étranger. La seule exception concerne les titres étrangers dont la vente dans l'UEMOA a été autorisée par l'AMF-UMOA.
+
+**Le contexte politique compte aussi.** Fin 2024, les réserves de change de la CEMAC couvraient 4,2 mois d'importations, en dessous des 5 mois recommandés par le FMI. La BEAC se méfie de tout ce qui fait sortir des devises : en mai 2026, son gouverneur a écarté les stablecoins en dollars au profit d'un futur franc CFA numérique. C'est notre lecture, et pas une position écrite de la BEAC, mais un produit qui envoie l'épargne locale à Wall Street ira à contre-courant de ses priorités. Il faudra le présenter avec beaucoup de soin.
+
+**Ce que montrent le Nigeria et le Kenya.** Au Nigeria, le régulateur a d'abord laissé faire, puis a rappelé en 2021 que seuls les titres étrangers cotés localement pouvaient être offerts au public. La banque centrale a ensuite obtenu le gel de comptes de plusieurs plateformes, dont Chaka et Bamboo. Le marché s'est réorganisé autour d'une licence de sous-courtier numérique. Au Kenya, les titres émis à l'étranger ne peuvent pas être proposés sans l'accord de l'autorité des marchés, même quand c'est le client qui fait la démarche. Une nouvelle licence de 2025 impose aussi un accord écrit avec un intermédiaire agréé. Dans les deux cas, le message est le même : il faut entrer dans le cadre dès le départ.
+
+### 20.6 Les impôts
+
+- **Au Cameroun**, un résident est imposé sur ses revenus du monde entier. Les dividendes entrent dans l'impôt sur les revenus de capitaux mobiliers, à 15 %, et 16,5 % avec la taxe additionnelle. Les plus-values sur titres entrent aussi dans cet impôt. Les avantages fiscaux visent surtout les titres cotés à la Bourse locale. Le traitement exact des titres étrangers dans le code 2026 n'a **pas été trouvé** et doit être confirmé avec un fiscaliste.
+- **Actions françaises** : retenue de 12,8 % en France. La convention entre la France et le Cameroun la plafonne à 15 %, et le Cameroun déduit l'impôt payé en France.
+- **Actions américaines** : il n'existe pas de convention fiscale entre les États-Unis et le Cameroun, donc la retenue sur les dividendes est de **30 %**. On ne sait pas encore si le Cameroun la déduit.
+- **Conséquence pratique** : un ETF qui réinvestit ses dividendes (dit « capitalisant ») évite de verser des dividendes au membre et réduit la complexité. C'est un argument de plus pour les ETF plutôt que les actions à l'unité.
+
+### 20.7 Ce que ça coûte et ce que ça rapporte
+
+**Le coût d'un aller-retour chez Amarah**, calculé avec ses frais publiés, pour 50 000 FCFA :
+
+| Étape | Frais | Il reste |
+|---|---|---|
+| Dépôt par mobile money | 3,5 % | 48 250 FCFA |
+| Change FCFA vers dollar | 2 % | 47 285 FCFA |
+| Achat | 2 % | 46 339 FCFA |
+| Vente au même prix | 2 % | 45 412 FCFA |
+| Change dollar vers FCFA | 2 % | 44 504 FCFA |
+| Retrait par mobile money | 2,5 % | **43 391 FCFA** |
+
+Le membre perd environ **13 %** sans que le cours ait bougé. Il lui faut une hausse d'environ 15 % rien que pour retrouver sa mise.
+
+**Ce que rapporte un ETF mondial.** L'ETF Amundi MSCI World coté à Paris (code CW8) prend 0,38 % de frais par an. Il a gagné environ 12,8 % par an en moyenne sur dix ans, mais il a perdu 12,9 % en 2022, et jusqu'à 33,6 % au plus fort de la chute de mars 2020. Ce sont des performances passées, qui ne promettent rien pour l'avenir.
+
+**À comparer avec ce que le membre a déjà chez lui.** L'inflation au Cameroun était de 2,6 % en moyenne sur douze mois en juillet 2026. Les titres d'État CEMAC rapportent plus de 10 % (voir partie 7), sans risque de change et sans volatilité de marché. Pour un petit épargnant, le titre d'État local reste le meilleur premier placement. L'ETF étranger n'a de sens que pour de l'argent qu'on peut laisser dix ans.
+
+**Une correction importante sur le risque de change.** On avait écrit plus tôt qu'un ETF en euros ne comporte aucun risque de change grâce à la parité fixe. C'est vrai pour un ETF d'actions européennes, comme le CAC 40 ou l'Euro Stoxx 50. Ce n'est **pas vrai** pour un ETF mondial coté en euros : le CW8 est investi à 73 % aux États-Unis et n'est pas couvert. Sa valeur bouge donc avec le dollar, même s'il est affiché en euros. La parité de 655,957 FCFA pour un euro reste en vigueur, et aucune réforme n'est annoncée. Le débat sur l'avenir du franc CFA reste ouvert, mais sans calendrier public en CEMAC.
+
+### 20.8 La taille du marché, estimée prudemment
+
+Aucune statistique ne mesure le nombre de Camerounais qui veulent investir à l'étranger. Le calcul ci-dessous est le nôtre.
+
+| Étape | Calcul | Résultat |
+|---|---|---|
+| Comptes mobile money actifs (hypothèse : le taux d'activité de 2023 s'applique à 2024) | 30,9 millions × 47 % | environ 14,5 millions de comptes |
+| Personnes qui ont à la fois l'épargne et l'envie (hypothèse) | 2 % | environ 290 000 personnes |
+| Part qu'on peut convaincre en cinq ans (hypothèse) | 3 % | environ 8 700 investisseurs |
+| Encours si chacun place 250 000 FCFA en moyenne (hypothèse) | 8 700 × 250 000 | environ 2,2 milliards FCFA |
+| Revenu à 1 % par an sur l'encours | 2,2 milliards × 1 % | **environ 22 millions FCFA par an** |
+
+À titre de comparaison, la seule activité tontine en Côte d'Ivoire était estimée à environ 294 millions FCFA par an (partie 19.10). Même en doublant toutes nos hypothèses, l'accès aux Bourses étrangères reste un complément. Sa vraie valeur est ailleurs : il garde dans l'app les membres qui ont fini leur tontine et qui cherchent la suite.
+
+**Une piste inverse, plus en phase avec le régulateur.** La diaspora camerounaise a envoyé 1,2 milliard de dollars en 2024 selon le ministère de l'Économie, dont 35 % depuis la France et 20 % depuis les États-Unis. La Banque mondiale donne un chiffre plus bas, 603 millions de dollars, ce qui montre que ces données sont fragiles. Dans toute la CEMAC, 1 354 milliards FCFA sont arrivés directement sur des comptes mobile money en 2024. Permettre à la diaspora de cotiser dans la tontine de sa famille, ou d'investir dans la caisse placée en titres CEMAC, ferait entrer des devises au lieu d'en faire sortir. C'est notre idée, pas une étude, mais elle mérite d'être testée avant la poche internationale.
+
+### 20.9 Forces, faiblesses, opportunités, menaces
+
+| | Pour nous |
+|---|---|
+| **Forces** | Profil finance de marché pour parler au régulateur, base de membres déjà en confiance grâce à la tontine, approche long terme et ETF plutôt que trading |
+| **Faiblesses** | Pas d'agrément COSUMAF, pas encore de banque partenaire, petits montants qui rendent les frais fixes très lourds |
+| **Opportunités** | Offre locale très réduite, infrastructures par API de plus en plus simples, Euronext Paris bientôt chez Alpaca, diaspora nombreuse en France et aux États-Unis |
+| **Menaces** | Réglementation de change stricte et réserves de change basses, statut COSUMAF incertain, retenue américaine de 30 %, échec de Chipper Cash qui refroidit les partenaires, chute des marchés qui abîmerait la confiance dans toute l'app |
+
+### 20.10 Le montage qu'on recommande
+
+1. **Une banque camerounaise au centre.** Elle reçoit l'argent, fait les déclarations à la BEAC et envoie les fonds par virement. Le mobile money sert seulement à alimenter le compte local du membre.
+2. **Un partenaire agréé COSUMAF** (société de bourse ou société de gestion) qui porte la relation avec le courtier étranger. Nous, on reste l'interface, l'éducation et le parcours client.
+3. **Un courtier étranger pour l'exécution et la garde des titres** : Interactive Brokers via le partenaire agréé, ou Alpaca quand Euronext Paris sera ouvert.
+4. **Une offre courte et prudente** : deux ou trois ETF larges, d'abord un ETF d'actions européennes sans risque de change, puis un ETF mondial. Pas d'actions à l'unité au départ, pas de dérivés, pas d'effet de levier.
+5. **Des achats groupés une fois par mois ou par trimestre**, pour diluer les frais fixes, si la BEAC et la COSUMAF acceptent ce regroupement.
+6. **Une limite de bon sens** : la poche internationale ne dépasse pas une petite part de l'épargne totale d'un membre, et elle n'est proposée qu'à ceux qui ont déjà une épargne de précaution.
+
+### 20.11 Les questions à poser à la BEAC et à la COSUMAF
+
+1. Le seuil de 20 millions FCFA s'applique-t-il par membre, par compte, ou à l'ensemble de la plateforme ?
+2. Une banque peut-elle regrouper les placements de nombreux petits épargnants dans un même compte chez un courtier étranger ?
+3. Une app qui transmet des ordres à un courtier étranger est-elle un intermédiaire de marché, un conseiller, ou un simple prestataire technique ?
+4. Proposer des ETF déjà cotés à Paris à des résidents CEMAC demande-t-il un visa COSUMAF ou une autorisation de commercialisation ?
+5. Le futur bac à sable réglementaire pourra-t-il accueillir un pilote de ce type ?
+6. Comment le Cameroun traite-t-il fiscalement les plus-values et les dividendes de titres étrangers, et déduit-il la retenue américaine ?
+
+### 20.12 Quand le faire
+
+Pas avant que la tontine et la caisse placée en titres CEMAC aient fait leurs preuves. Concrètement, on pose les questions aux régulateurs pendant la phase 3, et on lance un pilote fermé de poche internationale en phase 4, avec quelques centaines de membres volontaires et une banque partenaire. Avant cela, on teste la piste diaspora, qui va dans le même sens que la BEAC.
+
+---
+
 ## Sources consultées
 
 - BEAC, *Stratégie régionale d'inclusion financière dans la CEMAC 2025-2029*, publiée en février 2025.
@@ -719,5 +872,11 @@ Les chiffres publics ne disent pas tout. Avant d'investir dans la filiale ivoiri
 - Sites de TONT'IN, Tontineo, TontiGo, tontigo.online et Peya Pay, consultés en novembre 2026.
 - Fraternité Matin, 23 novembre 2026, et Digital Mag, 30 septembre 2024, sur les arnaques aux tontines en ligne ; J. W. Azi, « Analyse criminologique du phénomène des tontines à Abidjan », *Revue Crimen*.
 - « Motivations psychosociales et enjeux de l'épargne tontinière chez les commerçantes à Daloa », *RASS*, vol. 2, n° 2, 2022.
+- Bourses étrangères, réglementation : règlement n° 02/18/CEMAC/UMAC/CM (articles 116, 117 et 136) ; instruction BEAC n° 003/GR/2020 ; instruction BEAC n° 008/GR/2019 sur l'usage des instruments de paiement hors CEMAC ; règlement général COSUMAF du 23 mai 2023 et bulletin COSUMAF n° 1 (septembre 2025) ; actions prioritaires COSUMAF 2026 ; Droit Médias Finance sur le projet de règlement des services de paiement 2026 ; règlement n° 06/2024/CM/UEMOA.
+- Bourses étrangères, fiscalité : Code général des impôts du Cameroun (articles 70 et 111, via Lex Cameroun) ; convention fiscale France-Cameroun (impots.gouv.fr) ; IRS, publications 515 et 901.
+- Bourses étrangères, comparaisons : SEC Nigeria (registre des opérateurs) ; Legal 500 (AELEX) ; CMA Kenya, note sur le bac à sable (2019) et règlements de licence (2025) ; Chambers, *Fintech 2026, Kenya*.
+- Bourses étrangères, acteurs : site, page des frais et avertissement sur les risques d'Amarah (octobre 2026) ; centre d'aide de Chipper Cash ; BusinessDay Nigeria, 19 février 2026 ; NaijaSabi, juillet 2026 ; pages Broker API, Global Stocks et blog d'Alpaca (avril et juillet 2026) ; DriveWealth, page plateforme et communiqué du 9 février 2026 ; Buckingham Intelligence, classement des infrastructures de courtage, 2 novembre 2026.
+- Bourses étrangères, demande : BVMAC, rapport annuel 2025 ; COSUMAF, *L'essentiel* 2025 ; EcoMatin, 9 janvier 2026 ; BEAC, rapport sur les services de paiement 2023 (Investir au Cameroun, 15 octobre 2025) et 2024 (Econuma ; Ecofin, 29 avril 2026) ; Brefcrypto, 29 septembre 2026, et Chainalysis, *Geography of Cryptocurrency* 2025.
+- Bourses étrangères, contexte : INS Cameroun, note sur les prix de juillet 2026 ; BEAC, note sur l'inflation au premier trimestre 2026 ; Agence Ecofin, 13 mai 2026, sur le franc CFA numérique ; Bifinances, 2 novembre 2026, sur la parité ; EcoMatin, 28 janvier 2026, et OIM Cameroun, mars 2025, sur la diaspora ; meilleurs-etf.net et DCA Tracker sur l'ETF Amundi MSCI World (octobre 2026).
 
 *Ce document s'appuie sur des sources publiques consultées en novembre 2026. Les textes réglementaires évoluent : chaque point juridique doit être confirmé auprès d'un professionnel et des régulateurs avant toute décision.*
